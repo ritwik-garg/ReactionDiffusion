@@ -1,0 +1,12 @@
+{
+  "name": "reaction_diffusion",
+  "version": "1.0.0",
+  "description": "Reaction Diffusion",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Ritwik Garg",
+  "license": "MIT"
+}
